@@ -12,4 +12,4 @@ Used provided data to create machine learning models to classify the risk level 
 * Previously provided file, which is saved in the Resources folder in the repo: "lending_data.csv"
 
 ## Notes
-* Prediction and Findings included in jupyrter notebook
+* Prediction and Findings included in jupyter notebook
